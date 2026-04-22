@@ -1,4 +1,4 @@
-<img width="4704" height="2544" alt="obsticale_avoidance_circuit_diagram" src="https://github.com/user-attachments/assets/a9bc65d0-7a70-4da7-865c-925adaf12247" /># Autonomous Obstacle Avoidance Robot (Arduino, 4WD)
+# Autonomous Obstacle Avoidance Robot (Arduino, 4WD)
 
 Autonomous 4-wheel robotic system capable of real-time obstacle detection and navigation using ultrasonic sensing and servo-based environmental scanning.
 
@@ -21,8 +21,6 @@ The robot dynamically scans its surroundings and adjusts movement to avoid obsta
 ---
 
 ## 🧠 System Architecture
-
-![Circuit Diagram](docs/obsticale_avoidance_circuit_diagram.png)
 
 ### Core Pipeline
 - **Perception** → Ultrasonic sensor + servo scanning
@@ -77,7 +75,7 @@ autonomous-obstacle-avoidance-robot/
 │ └── obstacle_avoidance_robot.ino
 │
 ├── docs/
-│ ├── circuit.png
+│ ├── obsticale_avoidance_circuit_diagram
 │ └── demo video
 
 
