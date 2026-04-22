@@ -67,20 +67,6 @@ The robot dynamically scans its surroundings and adjusts movement to avoid obsta
 
 ---
 
-## 📁 Project Structure
-autonomous-obstacle-avoidance-robot/
-│
-├── README.md
-├── arduino/
-│ └── obstacle_avoidance_robot.ino
-│
-├── docs/
-│ ├── obsticale_avoidance_circuit_diagram
-│ └── demo video
-
-
----
-
 ## 💻 Code Highlights
 
 - Modular control functions:
